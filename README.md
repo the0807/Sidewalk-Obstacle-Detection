@@ -1,5 +1,4 @@
-# the0807-Sidewalk-Obstacle-Detection
-👀 sidewalk obstacle detection
+# Sidewalk-Obstacle-Detection
 
 ## Models
 <div style="display:flex; flex-direction:row;">
