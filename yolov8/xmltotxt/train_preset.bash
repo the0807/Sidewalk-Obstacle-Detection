@@ -1,3 +1,0 @@
-mkdir ../../datasets/obstacle/test/images && mkdir ../../datasets/obstacle/test/labels && mv ../../datasets/obstacle/test/*.jpg ../../datasets/obstacle/test/images && mv ../../datasets/obstacle/test/*.txt ../../datasets/obstacle/test/labels;
-mkdir ../../datasets/obstacle/valid/images && mkdir ../../datasets/obstacle/valid/labels && mv ../../datasets/obstacle/valid/*.jpg ../../datasets/obstacle/valid/images && mv ../../datasets/obstacle/valid/*.txt ../../datasets/obstacle/valid/labels;
-mkdir ../../datasets/obstacle/train/images && mkdir ../../datasets/obstacle/train/labels && mv ../../datasets/obstacle/train/*.jpg ../../datasets/obstacle/train/images && mv ../../datasets/obstacle/train/*.txt ../../datasets/obstacle/train/labels;
