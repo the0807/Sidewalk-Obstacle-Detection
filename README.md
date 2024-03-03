@@ -6,7 +6,7 @@ sidewalk obstacle detection using YOLOv8
   • AI Hub
 </div>
 <div style="display:flex; flex-direction:row;">
-  &nbsp&nbsp 인도보행 영상 (bbox - 약 30,000장)
+  &nbsp&nbsp 인도보행 영상 (bbox - 약 180,000장)
 </div>
 <br>
 <div style="display:flex; flex-direction:row;">
@@ -21,15 +21,15 @@ Change annotation format to match YOLOv8 using xmltotxt
   Ubuntu 20.04
 </div>
 <div style="display:flex; flex-direction:row;">
-  CUDA 11.6
+  CUDA 12.1
 </div>
 <div style="display:flex; flex-direction:row;">
-  PyTorch 1.13.1
+  PyTorch 2.1.1
 </div>
 
 ## Train
 <div style="display:flex; flex-direction:row;">
-  epoch: 500
+  epoch: 50000
 </div>
 <div style="display:flex; flex-direction:row;">
   batch: 32
