@@ -1,0 +1,1 @@
+mv bbox/Bbox*/* bbox/ && mkdir bbox/xml && mkdir bbox/labels && mv bbox/*.xml bbox/xml/ && rm -r bbox/Bbox*
