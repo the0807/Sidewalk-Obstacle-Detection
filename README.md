@@ -1,5 +1,5 @@
 # sidewalk obstacle detection
-👀 sidewalk obstacle detection using YOLOv8
+sidewalk obstacle detection using YOLOv8
 
 ## Dataset
 <div style="display:flex; flex-direction:row;">
