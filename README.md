@@ -39,7 +39,7 @@ Change annotation format to match YOLOv8 using xmltotxt
 </div>
 
 ## Result
-![results](https://github.com/the0807/Sidewalk-Obstacle-Detection/assets/73097985/98a4709e-78a5-4a23-8868-e593c27ba58a)
+![results](https://github.com/the0807/Sidewalk-Obstacle-Detection/assets/73097985/e06e56c1-65c1-4a3b-81a9-2f6edecb72a4)
 ![test1](https://github.com/the0807/Sidewalk-Obstacle-Detection/assets/73097985/128fd68e-3a31-49d5-91c0-3d5be7ff2d9b) | ![test2](https://github.com/the0807/Sidewalk-Obstacle-Detection/assets/73097985/ac31dd60-bc49-418a-9f47-9003e1040d4a) | ![test3](https://github.com/the0807/Sidewalk-Obstacle-Detection/assets/73097985/1e8ad8bf-5abb-4abe-a056-6f41eea916d2)
 |:---:|:---:|:---:|
 
